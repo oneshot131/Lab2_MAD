@@ -1,0 +1,5 @@
+npm install -g typescript // installs typescript.
+
+forEach - is for each element int the array.
+splice ,'1' - splice deletes (adds) to the array, whilst number indicates how much gets deleted.
+.Length - shows hows long the array is after deletion.
